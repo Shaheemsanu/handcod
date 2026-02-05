@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "199154685555",
+    "project_id": "handcod-e3e5b",
+    "storage_bucket": "handcod-e3e5b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199154685555:android:c5f7e657ae06c3368e7c06",
+        "android_client_info": {
+          "package_name": "com.example.handcode_tes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199154685555-q8hi6qievg3ie0v5cjlq9lqibdnhg85r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWQy9z-W5WmL69TzQXtOW_a2MkB1WxXsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199154685555-q8hi6qievg3ie0v5cjlq9lqibdnhg85r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "199154685555-cgr5b3iqpqgdigastgdvflcmooqs26bd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.handcodeTest"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199154685555:android:d1ad1d944dccbc758e7c06",
+        "android_client_info": {
+          "package_name": "com.example.handcode_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199154685555-q8hi6qievg3ie0v5cjlq9lqibdnhg85r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWQy9z-W5WmL69TzQXtOW_a2MkB1WxXsA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199154685555-q8hi6qievg3ie0v5cjlq9lqibdnhg85r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "199154685555-cgr5b3iqpqgdigastgdvflcmooqs26bd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.handcodeTest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
