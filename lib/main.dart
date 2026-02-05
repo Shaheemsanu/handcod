@@ -10,8 +10,8 @@ void main() async {
   await Firebase.initializeApp();
 
   await Supabase.initialize(
-    url: 'https://ghukaqogvwsnsbmadagr.supabase.co',
-    anonKey: 'sb_publishable_huScl5nU9RvnPnAgdtKO9A_qhgO5w1S',
+    url: 'https://.supabase.co',
+    anonKey: 'sb_publishable_',
   );
   runApp(ProviderScope(child: const MyApp()));
 }
